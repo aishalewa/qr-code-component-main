@@ -51,7 +51,7 @@ I'm taking actions towards learning media queries and advanced CSS in general.
 Youtube and AI really helped
 
 ## Author
-- Frontend Mentor - [@yaishalewa](https://www.frontendmentor.io/profile/aishalewa)
+- Frontend Mentor - [@aishalewa](https://www.frontendmentor.io/profile/aishalewa)
 - Linkedin - (https://linkedin.com/in/aishamustapha)
 
 
